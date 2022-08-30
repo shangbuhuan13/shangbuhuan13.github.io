@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "TUM/Germany"
-title                    : "Yan DI"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Yan Di"
-description              : &description "personal description"
+description              : &description "Stay hungry, stay foolish"
 url                      : https://shangbuhuan13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shangbuhuan13/shangbuhuan13.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yan Di"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Stay Hungry, stay foolish"
   location         : "TUM"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
