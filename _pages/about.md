@@ -14,4 +14,9 @@ I am a second-year PhD candidate at Chair for Computer Aided Medical Procedures 
 
 My research topic is object pose estimation. 
 
+# News
+1. Pose estimation works SO-Pose, GPV-Pose, RBP-Pose, SSP-Pose are listed here.
+
+
+
 
