@@ -1,9 +1,9 @@
 ---
-index: RBPPOSEZ
+index: RBPPOSE
 permalink: /publications/RBP-Pose
 title: "RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation"
 authors: ['Ruida Zhang*', 'Yan Di\*', 'Zhiqiang Lou','Fabian Manhardt', 'Nassir Navab', 'Federico Tombari', 'Xiangyang Ji'] 
-authors_pub:['Ruida Zhang*, Yan Di*, Zhiqiang Lou, Fabian Manhardt, Nassir Navab, Federico Tombari, Xiangyang Ji']
+authors_pub: ['Ruida Zhang*, Yan Di*, Zhiqiang Lou, Fabian Manhardt, Nassir Navab, Federico Tombari, Xiangyang Ji']
 venue: 'European Conference on Computer Vision (Accepted)'
 venue-abbr: 'ECCV'
 venue-type: 'proceedings'
