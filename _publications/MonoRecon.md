@@ -11,7 +11,7 @@ year: 2019
 pdfurl: https://openaccess.thecvf.com/content_ICCV_2019/papers/Di_Monocular_Piecewise_Depth_Estimation_in_Dynamic_Scenes_by_Exploiting_Superpixel_ICCV_2019_paper.pdf
 publisherurl: 
 codeurl:
-talkurl:'Yan Di, Henrique Morimitsu, Shan Gao, Xiangyang Ji'
+talkurl: 'Yan Di, Henrique Morimitsu, Shan Gao, Xiangyang Ji'
 excerpt: 'Dense reconstruction.'
 collection: publications
 layout: archive
