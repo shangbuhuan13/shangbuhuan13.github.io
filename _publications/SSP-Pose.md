@@ -1,9 +1,9 @@
 ---
-index: SSPPOSEZ
+index: SSPPOSE
 permalink: /publications/SSP-Pose
 title: "SSP-Pose: Symmetry-Aware Shape Prior Deformation for Direct Category-Level Object Pose Estimation"
 authors: ['Ruida Zhang', 'Yan Di', 'Fabian Manhardt', 'Nassir Navab', 'Federico Tombari', 'Xiangyang Ji'] 
-authors_pub:['Ruida Zhang, Yan Di, Fabian Manhardt, Nassir Navab, Federico Tombari, Xiangyang Ji']
+authors_pub: ['Ruida Zhang*, Yan Di*, Fabian Manhardt, Nassir Navab, Federico Tombari, Xiangyang Ji']
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (Accepted)'
 venue-abbr: 'IROS'
 venue-type: 'proceedings'
