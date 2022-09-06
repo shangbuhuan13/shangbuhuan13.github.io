@@ -3,6 +3,7 @@ index: UniRecon
 permalink: /publications/Uni
 title: "A unified framework for piecewise semantic reconstruction in dynamic scenes via exploiting superpixel relations"
 authors: ['Yan Di', 'Henrique Morimitsu', 'Zhiqiang Lou', 'Xiangyang Ji'] 
+authors_pub: ['Yan Di, Henrique Morimitsu, Zhiqiang Lou, Xiangyang Ji']
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 venue-abbr: 'ICRA'
 venue-type: 'proceedings'
@@ -11,7 +12,7 @@ year: 2020
 pdfurl: https://ieeexplore.ieee.org/abstract/document/9197240
 publisherurl: 
 codeurl:
-talkurl: 'Yan Di, Henrique Morimitsu, Zhiqiang Lou, Xiangyang Ji'
+talkurl: 
 excerpt: 'Dense reconstruction.'
 collection: publications
 layout: archive
