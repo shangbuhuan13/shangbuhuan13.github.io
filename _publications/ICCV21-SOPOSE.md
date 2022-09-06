@@ -3,7 +3,7 @@ index: SOPOSE
 permalink: /publications/ICCV21-SOPOSE
 title: "SO-Pose: Exploiting Self-Occlusion for Direct 6d Pose Estimation"
 authors: ['Yan Di', 'Fabian Manhardt', 'Gu Wang', 'Xiangyang Ji', 'Nassir Navab','Federico Tombari'] 
-authors_pub:['Yan Di, Fabian Manhardt, Gu Wang, Xiangyang Ji, Nassir Navab, Federico Tombari']
+authors_pub: ['Yan Di, Fabian Manhardt, Gu Wang, Xiangyang Ji, Nassir Navab, Federico Tombari']
 venue: 'the IEEE/CVF International Conference on Computer Vision (ICCV)'
 venue-abbr: 'ICCV'
 venue-type: 'proceedings'
