@@ -2,7 +2,8 @@
 index: GPVPOSE
 permalink: /publications/GPV-Pose
 title: "GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-wise Voting"
-authors: ['Yan Di*', 'Ruida Zhang*', 'Zhiqiang Lou','Fabian Manhardt','Xiangyang Ji', 'Nassir Navab', 'Federico Tombari'] 
+authors: ['Yan Di', 'Ruida Zhang', 'Zhiqiang Lou','Fabian Manhardt','Xiangyang Ji', 'Nassir Navab', 'Federico Tombari'] 
+authors_pub:['Yan Di*, Ruida Zhang*, Zhiqiang Lou, Fabian Manhardt, Xiangyang Ji, Nassir Navab, Federico Tombari']
 venue: 'the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 venue-abbr: 'CVPR'
 venue-type: 'proceedings'
