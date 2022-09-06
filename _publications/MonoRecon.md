@@ -3,6 +3,7 @@ index: MonoRecon
 permalink: /publications/MonoRecon
 title: "Monocular piecewise depth estimation in dynamic scenes by exploiting superpixel relations"
 authors: ['Yan Di', 'Henrique Morimitsu', 'Shan Gao', 'Xiangyang Ji'] 
+authors_pub:['Yan Di, Henrique Morimitsu, Shan Gao, Xiangyang Ji']
 venue: 'the IEEE/CVF International Conference on Computer Vision (ICCV)'
 venue-abbr: 'ICCV'
 venue-type: 'proceedings'
