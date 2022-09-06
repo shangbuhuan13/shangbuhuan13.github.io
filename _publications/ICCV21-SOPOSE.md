@@ -8,7 +8,6 @@ venue-abbr: 'ICCV'
 venue-type: 'proceedings'
 pages: 12396-12405
 year: 2021
-date: 2021
 pdfurl: https://openaccess.thecvf.com/content/ICCV2021/html/Di_SO-Pose_Exploiting_Self-Occlusion_for_Direct_6D_Pose_Estimation_ICCV_2021_paper.html
 publisherurl: 
 codeurl:
