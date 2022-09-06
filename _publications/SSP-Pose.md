@@ -1,5 +1,5 @@
 ---
-index: SSPPOSE
+index: SSPPOSEZ
 permalink: /publications/SSP-Pose
 title: "SSP-Pose: Symmetry-Aware Shape Prior Deformation for Direct Category-Level Object Pose Estimation"
 authors: ['Ruida Zhang*', 'Yan Di*', 'Fabian Manhardt', 'Nassir Navab', 'Federico Tombari', 'Xiangyang Ji'] 
