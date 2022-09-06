@@ -8,7 +8,6 @@ venue-abbr: 'CVPR'
 venue-type: 'proceedings'
 pages: 6781-6791
 year: 2022
-date: 2022
 pdfurl: https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf
 publisherurl: 
 codeurl:
