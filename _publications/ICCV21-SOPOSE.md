@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding"
+title: "SO-Pose: Exploiting Self-Occlusion for Direct 6d Pose Estimation"
 permalink: /publications/ICCV21-SOPOSE
 author_profile: true
 ---
