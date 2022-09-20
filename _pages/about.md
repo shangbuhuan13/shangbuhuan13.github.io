@@ -12,7 +12,7 @@ I am a second-year PhD candidate at Chair for Computer Aided Medical Procedures 
 
 
 # Research
-My research topic is object pose estimation and its applications in 3D part assembly and robotic grasping. 
+My research topic is object pose estimation and its applications in 3D part assembly, shape retrieval and robotic grasping. 
 
 
 # News
