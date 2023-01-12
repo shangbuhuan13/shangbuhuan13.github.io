@@ -16,6 +16,7 @@ My research topic is object pose estimation and its applications in 3D part asse
 
 
 # News
+* \[2023/01 \] Our 3D object detection method (category-level pose estimation in traffic scenes) OPA-3D is accepted to the IEEE Robotics and Automation Letters (RAL).
 * \[2022/10 \] Our method ZebraPoseSAT won the 'Overall Best Segmentation Method', 'Best BlenderProc-Trained Segmentation Method' in BOP Challenge, ECCV 2022. Our method is also the second best RGB-Only Pose Estimation method. I contributed part of the code.
 * \[2022/06 \] Our category-level pose estimation works GPV-Pose, RBP-Pose, SSP-Pose are accepted to CVPR2022, ECCV2022, IROS2022 respectively.
 * \[2021/06 \] Our instance-level pose estimation work SO-Pose is accepted at ICCV2021.
