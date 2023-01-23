@@ -26,6 +26,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Awards
 ======
-* Reviewers for CVPR, ECCV, IROS, RAL
+* Reviewers for CVPR, ECCV, IROS, ICRA, RAL
+* The overall best segmentation award in ECCV2022 BOP Challenge.
