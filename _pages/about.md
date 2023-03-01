@@ -16,7 +16,7 @@ My research topic is object pose estimation and its applications in 3D part asse
 
 
 # News
-* \[2023/02 \] Our paper on motion prediction in traffic scenes is accepted to CVPR2023.
+* \[2023/02 \] Our paper IPCC-TP on trajectory prediction in traffic scenes is accepted to CVPR2023.
 * \[2023/02 \] Our paper on self-supervised category-level pose estimation is accepted to RAL.
 * \[2023/01 \] Our robotic grasping paper MonoGraspNet is accepted to ICRA2023.
 * \[2023/01 \] Our 3D object detection method (category-level pose estimation in traffic scenes) OPA-3D is accepted to the IEEE Robotics and Automation Letters (RAL).
