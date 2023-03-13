@@ -16,6 +16,7 @@ My research topic is object pose estimation and its applications in 3D part asse
 
 
 # News
+* \[2023/03 \] Our paper SST on neural reconstruction from RGB sequences is accepted to ICME2023.
 * \[2023/02 \] Our paper IPCC-TP on trajectory prediction in traffic scenes is accepted to CVPR2023.
 * \[2023/02 \] Our paper on self-supervised category-level pose estimation is accepted to RAL.
 * \[2023/01 \] Our robotic grasping paper MonoGraspNet is accepted to ICRA2023.
