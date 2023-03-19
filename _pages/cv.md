@@ -28,5 +28,5 @@ Publications
   
 Service and Awards
 ======
-* Reviewers for CVPR, ECCV, IROS, ICRA, RAL
-* The overall best segmentation award in ECCV2022 BOP Challenge.
+* Reviewers for CVPR, ICCV, ECCV, IROS, ICRA, RAL
+* The overall best segmentation award in ECCV2022 BOP Challenge, ZebraPoseSAT.
