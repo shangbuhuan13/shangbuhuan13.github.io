@@ -20,6 +20,8 @@ My research topic is object pose estimation and its applications in 3D part asse
 
 
 # News
+* \[2023/09 \] Our paper DDF-HO on hand-held object reconstruction is accepted to NeurIPS2023.
+* \[2023/09 \] Our paper CommonScenes on scene generation from scene graph is accepted to NeurIPS2023.
 * \[2023/07 \] Our paper U-RED on unsupervised shape retrieval and deformation in indoor scenes is accepted to ICCV2023.
 * \[2023/03 \] Our paper SST on neural reconstruction from RGB sequences is accepted to ICME2023.
 * \[2023/02 \] Our paper IPCC-TP on trajectory prediction in traffic scenes is accepted to CVPR2023.
