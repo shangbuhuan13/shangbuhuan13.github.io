@@ -20,6 +20,7 @@ My research topic is object pose estimation and its applications in 3D part asse
 
 
 # News
+* \[2024/01 \] Our paper SG-Bot on scene-graph-based object rearrangement is accepted to ICRA2024.
 * \[2023/09 \] Our paper DDF-HO on hand-held object reconstruction is accepted to NeurIPS2023.
 * \[2023/09 \] Our paper CommonScenes on scene generation from scene graph is accepted to NeurIPS2023.
 * \[2023/07 \] Our paper U-RED on unsupervised shape retrieval and deformation in indoor scenes is accepted to ICCV2023.
