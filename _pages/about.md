@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year PhD candidate at Chair for Computer Aided Medical Procedures & Augmented Reality (CAMP), Technical University of Munich. My supervisors are PD Dr. Federico Tombari and Prof. Nassir Navab. I also work with Dr. Fabian Manhardt from Google. 
+I am a finishing PhD student at Chair for Computer Aided Medical Procedures & Augmented Reality (CAMP), Technical University of Munich. My supervisors are PD Dr. Federico Tombari and Prof. Nassir Navab. I also work with Dr. Fabian Manhardt from Google. 
 
 I joined Google Munich as a Student Researcher in August 2023. 
 
