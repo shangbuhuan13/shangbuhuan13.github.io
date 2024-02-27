@@ -20,6 +20,7 @@ My research topic is object pose estimation and its applications in 3D part asse
 
 
 # News
+* \[2024/02 \] 5 papers are accepted to CVPR2024. KP-RED and ShapeMaker focus on joint shape canonicalization, segmentation, retrieval and deformation. HiPose achieves nearly SOTA performance on instance-level pose estimation, whilst running super fast. SecondPose outperforms competitors on category-level pose estimation. MOHO uses a synthetic-to-real strategy for hand-held object reconstruction, and provides a new synthetic dataset for training.
 * \[2024/01 \] Our paper SG-Bot on scene-graph-based object rearrangement is accepted to ICRA2024.
 * \[2023/09 \] Our paper DDF-HO on hand-held object reconstruction is accepted to NeurIPS2023.
 * \[2023/09 \] Our paper CommonScenes on scene generation from scene graph is accepted to NeurIPS2023.
