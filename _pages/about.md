@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a finishing PhD student at Chair for Computer Aided Medical Procedures & Augmented Reality (CAMP), Technical University of Munich. My supervisors are PD Dr. Federico Tombari and Prof. Nassir Navab. I also work with Dr. Fabian Manhardt from Google. 
-
-I joined Google Munich as a Student Researcher in August 2023. 
-
-In 2020, I received my master degree at Department of Automation in Tsinghua University, under the supervision of Prof. Xiangyang Ji. In 2017, I received the B.Eng. degree at Department of Automation in Tsinghua University.
+I am an assitant professor in Harbin Institute of Technology, Shenzhen.
+I obtained my Ph.D. degree in 2025 from the Technical University of Munich (TUM), Germany, under the supervison of Dr. Federico Tombari. In 2020, I received my master degree at Department of Automation in Tsinghua University, under the supervision of Prof. Xiangyang Ji. In 2017, I received the B.Eng. degree at Department of Automation in Tsinghua University.
 
 
 # Research
-My research topic is object pose estimation and its applications in 3D part assembly, shape retrieval, shape matching and robotic grasping. 
+My research topic is human-object pose estimation, generation and its applications in robotics. 
 
 
 # News
