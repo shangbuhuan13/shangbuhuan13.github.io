@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yan Di"
   avatar           : "meself_square.png"
-  bio              : "PhD candidate"
-  location         : "TUM, Munich"
+  bio              : "Assistant Professor"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HSlGGvwAAAAJ&hl=en"
-  email            : "yan.di@tum.de"
+  email            : "diyan@hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
