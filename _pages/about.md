@@ -14,7 +14,7 @@ I obtained my Ph.D. degree in 2025 from the Technical University of Munich (TUM)
 
 
 # Research
-My research topic is human-object pose estimation, generation and its applications in robotics. Feel free to reach me at diyan@hit.edu.cn
+My research topic is human-object pose estimation, generation, motion retargeting and its applications in robotics (dexterous hands). Feel free to reach me at diyan@hit.edu.cn
 
 
 # News
